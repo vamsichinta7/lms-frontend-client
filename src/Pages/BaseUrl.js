@@ -1,0 +1,1 @@
+export const baseUrl =  "https://lms-backend-server.onrender.com/api/"
